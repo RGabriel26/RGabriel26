@@ -11,6 +11,6 @@ Hey there! I'm Gabriel, a passionate third-year student pursuing my Bachelor's d
 
 📫 Get in Touch!
 📧 Email: gabrielrosu112@gmail.com
-🔗 LinkedIn: Roșu Gabriel
+🔗 LinkedIn: [Roșu Gabriel](https://www.linkedin.com/in/roșu-gabriel-960946276)
 
 Feel free to reach out, whether it's about collaboration opportunities or just to chat about tech and programming! 😊
