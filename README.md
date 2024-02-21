@@ -1,13 +1,15 @@
 🚀 Welcome to my GitHub Profile! 🌟
-Hey there! I'm Gabriel, a passionate third-year student pursuing my Bachelor's degree in Electrical Engineering at Iasi University. When I'm not buried in textbooks, you'll find me diving into the exciting world of IT and programming. Here's a glimpse into what I've been up to:
 
-📘 Languages: I've delved into various programming languages such as Java, Python, and C.
+Hey there! I'm Gabriel, a passionate electrical engineering student currently in my third year at the Faculty of Electrical Engineering in Iasi. When I'm not buried in textbooks, you'll often find me exploring the realms of IT and programming, constantly eager to learn new things.
 
-💻 Java Journey: Explored the fundamentals and dabbled with SpringBoot framework. Collaborated with Generatia Tech team to develop a website for basketball enthusiasts: [Check it out here...](https://baschet.metropolabrasov.ro/)
 
-🐍 Python Projects: Mastered the basics and crafted a Backgammon game using PyQt6 graphics library.
+💻 Languages: I've delved into various programming languages such as Java, Python, and C.
 
-🔧 C Exploration: Got acquainted with the basics of C programming during my university coursework.
+☕️ Java Journey: Explored the basics and collaborated on projects utilizing SpringBoot framework. Contributed to the development of a website [here](https://baschet.metropolabrasov.ro/)🏀 with the Generatia Tech team. Completed a Java programming course under their guidance.
+
+🐍 Python Projects: Familiarized myself with the fundamentals and crafted a Backgammon game using PyQt6 graphics library.
+
+⌨️ C Exploration: Got acquainted with the basics of C programming during my university coursework.
 
 
 📫 Get in Touch!
