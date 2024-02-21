@@ -19,8 +19,8 @@ Hey there! I'm Gabriel, a passionate electrical engineering student currently in
 📧 Email: gabrielrosu112@gmail.com
 
 🔗 LinkedIn: [Roșu Gabriel](https://www.linkedin.com/in/roșu-gabriel-960946276)
-<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=RGabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
-<center>![](https://github-readme-streak-stats.herokuapp.com/?user=RGabriel26&theme=dark&hide_border=false)<br/></center>
+<center> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RGabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </center>
+<center> ![](https://github-readme-streak-stats.herokuapp.com/?user=RGabriel26&theme=dark&hide_border=false)<br/> </center>
 
 Feel free to reach out, whether it's about collaboration opportunities or just to chat about tech and programming! 😊
 
