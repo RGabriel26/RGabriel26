@@ -8,7 +8,7 @@ Hey there! I'm Gabriel, a passionate electrical engineering student currently in
 ⌨️ C Exploration: Got acquainted with the basics of C programming during my university coursework.
 
 
-📫 Get in Touch!</br>
+📫 Contact Me:</br>
 📧 Email: gabrielrosu112@gmail.com</br>
 🔗 LinkedIn: [Roșu Gabriel](https://www.linkedin.com/in/roșu-gabriel-960946276)</br>
 <h3 align="left">Languages and Tools:</h3>
