@@ -23,3 +23,9 @@ Hey there! I'm Gabriel, a passionate electrical engineering student currently in
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgabriel26&show_icons=true&locale=en&layout=compact" alt="rgabriel26" /></p>
 
 Feel free to reach out, whether it's about collaboration opportunities or just to chat about tech and programming! 😊
+
+
+![](https://github-readme-stats.vercel.app/api?username=RGabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RGabriel26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RGabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
