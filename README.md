@@ -13,9 +13,7 @@ Hey there! I'm Gabriel, a passionate electrical engineering student currently in
 
 
 📫 Get in Touch!
-
 📧 Email: gabrielrosu112@gmail.com
-
 🔗 LinkedIn: [Roșu Gabriel](https://www.linkedin.com/in/roșu-gabriel-960946276)
 
 
